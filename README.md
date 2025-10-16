@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+All my information is at https://striker2783.github.io/.
+
 <!--
 **Striker2783/Striker2783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
